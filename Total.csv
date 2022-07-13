@@ -1,0 +1,16 @@
+topicName,fecha,hora,dia,cantidad,total,final,grafo
+Activacion de productos,2022-05-27,15:00:00,Friday,1,76,0.013157894736842105,1
+Baja de productos,2022-05-27,15:00:00,Friday,8,76,0.10526315789473684,1
+Cambio de ejecutivo,2022-05-27,15:00:00,Friday,1,76,0.013157894736842105,1
+Clave Digipass,2022-05-27,15:00:00,Friday,1,76,0.013157894736842105,1
+Consulta compras TD TC,2022-05-27,15:00:00,Friday,10,76,0.13157894736842105,1
+Consulta ejecutivo de cuenta,2022-05-27,15:00:00,Friday,2,76,0.02631578947368421,1
+Consulta estado de cuenta facturacion,2022-05-27,15:00:00,Friday,9,76,0.11842105263157894,1
+Consulta por cheques,2022-05-27,15:00:00,Friday,1,76,0.013157894736842105,1
+Corte llamado,2022-05-27,15:00:00,Friday,3,76,0.039473684210526314,2
+Emergencias bancarias,2022-05-27,15:00:00,Friday,8,76,0.10526315789473684,1
+NOIDENTIFICADO,2022-05-27,15:00:00,Friday,19,76,0.25,1
+Oportunidades de vinculacion,2022-05-27,15:00:00,Friday,4,76,0.05263157894736842,1
+Red sucursal,2022-05-27,15:00:00,Friday,3,76,0.039473684210526314,2
+Reincidencia,2022-05-27,15:00:00,Friday,3,76,0.039473684210526314,2
+Transferencias,2022-05-27,15:00:00,Friday,3,76,0.039473684210526314,1

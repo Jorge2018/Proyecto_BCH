@@ -1,0 +1,42 @@
+_source.conversationSequence.topicName,_source.interactionData.interactionId,topicName,interactionId,cantidad
+Emergencias bancarias,9b052b8f-562c-47c5-804d-8f8f0f60a0a6,Emergencias bancarias,9b052b8f-562c-47c5-804d-8f8f0f60a0a6,2.0
+Problemas con plástico,3297ec98-2229-40c4-b424-edd349996cc9,Problemas con plástico,3297ec98-2229-40c4-b424-edd349996cc9,5.0
+Consulta estado de cuenta y facturación,3297ec98-2229-40c4-b424-edd349996cc9,Consulta estado de cuenta y facturación,3297ec98-2229-40c4-b424-edd349996cc9,5.0
+Desbloqueo Clave,3297ec98-2229-40c4-b424-edd349996cc9,Desbloqueo Clave,3297ec98-2229-40c4-b424-edd349996cc9,5.0
+Emergencias bancarias,3297ec98-2229-40c4-b424-edd349996cc9,Emergencias bancarias,3297ec98-2229-40c4-b424-edd349996cc9,5.0
+Oportunidades de vinculación,bdfef1d6-e212-4204-bbd2-abf4351bcc83,Oportunidades de vinculación,bdfef1d6-e212-4204-bbd2-abf4351bcc83,2.0
+Emergencias bancarias,95c39c5a-b042-41fc-bc4a-ef15da682a1e,Emergencias bancarias,95c39c5a-b042-41fc-bc4a-ef15da682a1e,3.0
+Consulta ejecutivo de cuenta,95c39c5a-b042-41fc-bc4a-ef15da682a1e,Consulta ejecutivo de cuenta,95c39c5a-b042-41fc-bc4a-ef15da682a1e,3.0
+Reincidencia,9034c353-7157-4849-b01d-f1616400a2be,Reincidencia,9034c353-7157-4849-b01d-f1616400a2be,2.0
+Emergencias bancarias,fb3cb3b8-6eee-4467-8a7e-68acc7a6ef52,Emergencias bancarias,fb3cb3b8-6eee-4467-8a7e-68acc7a6ef52,3.0
+Desbloqueo Clave,fb3cb3b8-6eee-4467-8a7e-68acc7a6ef52,Desbloqueo Clave,fb3cb3b8-6eee-4467-8a7e-68acc7a6ef52,3.0
+Consulta ejecutivo de cuenta,299c068d-f111-44cf-bbbe-ddb93ec72d5d,Consulta ejecutivo de cuenta,299c068d-f111-44cf-bbbe-ddb93ec72d5d,2.0
+Clave Digipass,52b42450-5ef8-409f-9cab-9b9cf85792fb,Clave Digipass,52b42450-5ef8-409f-9cab-9b9cf85792fb,2.0
+Emergencias bancarias,3546594c-5466-4159-8b56-e3ad55c5012b,Emergencias bancarias,3546594c-5466-4159-8b56-e3ad55c5012b,2.0
+Activación de productos,e3b49ff5-aa46-4403-9857-3bb1f31a9499,Activación de productos,e3b49ff5-aa46-4403-9857-3bb1f31a9499,4.0
+Emergencias bancarias,e3b49ff5-aa46-4403-9857-3bb1f31a9499,Emergencias bancarias,e3b49ff5-aa46-4403-9857-3bb1f31a9499,4.0
+Reincidencia,e3b49ff5-aa46-4403-9857-3bb1f31a9499,Reincidencia,e3b49ff5-aa46-4403-9857-3bb1f31a9499,4.0
+Consulta compras TD y TC,ee9a7491-d7cd-4f22-b74b-f2597077f4aa,Consulta compras TD y TC,ee9a7491-d7cd-4f22-b74b-f2597077f4aa,2.0
+Corte llamado,2fdfa524-1e0e-4871-ae60-05750bde2745,Corte llamado,2fdfa524-1e0e-4871-ae60-05750bde2745,6.0
+Activación de productos,2fdfa524-1e0e-4871-ae60-05750bde2745,Activación de productos,2fdfa524-1e0e-4871-ae60-05750bde2745,6.0
+Problemas uso tarjetas,2fdfa524-1e0e-4871-ae60-05750bde2745,Problemas uso tarjetas,2fdfa524-1e0e-4871-ae60-05750bde2745,6.0
+Consulta compras TD y TC,2fdfa524-1e0e-4871-ae60-05750bde2745,Consulta compras TD y TC,2fdfa524-1e0e-4871-ae60-05750bde2745,6.0
+Transferencias,2fdfa524-1e0e-4871-ae60-05750bde2745,Transferencias,2fdfa524-1e0e-4871-ae60-05750bde2745,6.0
+Clave Digipass,865aa37e-5dee-46ad-9575-a033a6819e72,Clave Digipass,865aa37e-5dee-46ad-9575-a033a6819e72,2.0
+Emergencias bancarias,a4a7272e-0d99-442b-8570-1864ed1200a5,Emergencias bancarias,a4a7272e-0d99-442b-8570-1864ed1200a5,2.0
+Red sucursal,27922b09-8a8c-4513-81df-321c6c954eb7,Red sucursal,27922b09-8a8c-4513-81df-321c6c954eb7,4.0
+Reincidencia,27922b09-8a8c-4513-81df-321c6c954eb7,Reincidencia,27922b09-8a8c-4513-81df-321c6c954eb7,4.0
+Transferencias,27922b09-8a8c-4513-81df-321c6c954eb7,Transferencias,27922b09-8a8c-4513-81df-321c6c954eb7,4.0
+Desbloqueo Clave,3bfb33e6-9d0a-4a06-bbd4-cce3b7d1d1f0,Desbloqueo Clave,3bfb33e6-9d0a-4a06-bbd4-cce3b7d1d1f0,2.0
+Clave Internet,ce323de6-a340-49f3-acea-8418390e7f30,Clave Internet,ce323de6-a340-49f3-acea-8418390e7f30,2.0
+Activación de productos,d0fc42be-cc55-4788-924a-967b3603a41c,Activación de productos,d0fc42be-cc55-4788-924a-967b3603a41c,2.0
+Red sucursal,0acee114-248d-4674-b248-d2f80bb3d937,Red sucursal,0acee114-248d-4674-b248-d2f80bb3d937,2.0
+Consulta compras TD y TC,e7585074-c76b-40d2-9342-1e99dc3bba3c,Consulta compras TD y TC,e7585074-c76b-40d2-9342-1e99dc3bba3c,2.0
+Emergencias bancarias,1ec2be8f-d316-4b3a-8352-1f7c47b35041,Emergencias bancarias,1ec2be8f-d316-4b3a-8352-1f7c47b35041,3.0
+Cambio de sucursal,1ec2be8f-d316-4b3a-8352-1f7c47b35041,Cambio de sucursal,1ec2be8f-d316-4b3a-8352-1f7c47b35041,3.0
+Reincidencia,8b2c59c2-fe97-4453-acc8-fce9ea153ba8,Reincidencia,8b2c59c2-fe97-4453-acc8-fce9ea153ba8,3.0
+Activación de productos,8b2c59c2-fe97-4453-acc8-fce9ea153ba8,Activación de productos,8b2c59c2-fe97-4453-acc8-fce9ea153ba8,3.0
+Emergencias bancarias,4c07bdc6-4d08-496c-b62a-421195023924,Emergencias bancarias,4c07bdc6-4d08-496c-b62a-421195023924,2.0
+Transferencias,b91f6646-1e2a-4151-9366-ae5e6c85bfdd,Transferencias,b91f6646-1e2a-4151-9366-ae5e6c85bfdd,2.0
+Activación de productos,3bd8f7bb-7e04-454b-8237-c8046ca3cf18,Activación de productos,3bd8f7bb-7e04-454b-8237-c8046ca3cf18,2.0
+Desbloqueo Clave,84863388-abd9-4bb0-b010-1eb678ed6e6e,Desbloqueo Clave,84863388-abd9-4bb0-b010-1eb678ed6e6e,2.0
